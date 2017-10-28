@@ -1,0 +1,1 @@
+Hi, this set you can use for their projects in different genres (survival, FPS). In these models, no animation, particle system.For some models, additional textures such as fish live and roast are created. Models created in Blender 3D and texture in 3D Coat. Their suggestions and comments can u send me here vovaustimuk@gmail.com

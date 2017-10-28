@@ -148,6 +148,7 @@
      <None Include="Assets\Art\Shaders_Particles\StixGames\DirectX 11 Grass Shader\GrassConfig.cginc" />
      <None Include="Assets\PostProcessing\Editor Resources\UI\Trackball.shader" />
      <None Include="Assets\Art\Shaders_Particles\StixGames\DirectX 11 Grass Shader\GrassLighting.cginc" />
+     <None Include="Assets\Campfire and props\Readme.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.cginc" />
      <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
