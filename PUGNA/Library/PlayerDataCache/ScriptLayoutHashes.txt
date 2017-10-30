@@ -12,6 +12,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 5667fb372c2b292ccdec2a31aaac98fa UnityEngine.Timeline.dll:UnityEngine.Timeline.GroupTrack
 5667fb372c2b292ccdec2a31aaac98fa UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 c24a21b131bfa67be1162db2cba4b52b UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ReverseNormals
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
 49cd62a578efc0a599b810a2b66cd49c UnityEngine.UI.dll:UnityEngine.UI.Button
@@ -104,7 +105,8 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 01a0859172d3f4d37b16547127bb575a Assembly-CSharp.dll:StixGames.CameraFollow
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.TEMP
+114d1130d93478c52ddf8bcecec2879e Assembly-CSharp.dll:.randomParticleRotation
+cb464e81e77871451dd7842b690a35f2 Assembly-CSharp.dll:.TEMP
 e7b801bdbf6394bb65455bcebb761da9 Assembly-CSharp.dll:StixGames.CircularDisplacer
 bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
@@ -118,9 +120,11 @@ a4e42a9cd0966ba991893dc17a70c91b Assembly-CSharp.dll:.GrassRegenerator
 8721a859a907615af7b5a794f26c6764 Assembly-CSharp.dll:StixGames.ReadjustBoundingBox
 e6540f294ef5a4cd47a58a5067ba71ca Assembly-CSharp.dll:StixGames.GrassShader.RotateAxis
 205965134a5874db410d674ebdf33ba7 Assembly-CSharp.dll:.ExampleWheelController
+867856baf2a4f60d9e27584d0bed3e5f Assembly-CSharp.dll:.rotation
 e30bc3b825b2bde794a34477addce49c Assembly-CSharp.dll:.DisplacementTrailRenderer
 86f1446b421d43e79f13687ae1ea32d4 Assembly-CSharp.dll:StixGames.GrassShader.SimpleMover
 79958630c9c856c18404a4dbe9d48495 Assembly-CSharp.dll:.PlayerTimeEffector
+f0f900fcb9c45950b6c161f21f6f5923 Assembly-CSharp.dll:.Network
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Networking.dll:UnityEngine.Networking.NetworkBehaviour
 60b2bb652410a5867a5ab9a01cd38461 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkDiscovery

@@ -21,13 +21,45 @@ Platform assembly: D:\Guthub\pugna\PUGNA\GameBuild\Launch_Data\Managed\UnityEngi
 Loading D:\Guthub\pugna\PUGNA\GameBuild\Launch_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 Platform assembly: D:\Guthub\pugna\PUGNA\GameBuild\Launch_Data\Managed\System.dll (this message is harmless)
 Platform assembly: D:\Guthub\pugna\PUGNA\GameBuild\Launch_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.186 seconds
+- Completed reload, in  0.314 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.854866 ms
+UnloadTime: 0.737852 ms
+Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Message recced
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reached end
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1d0c -> priority: 1 
-  Thread -> id: 38c8 -> priority: 1 
-  Thread -> id: 38ec -> priority: 1 
-  Thread -> id: c18 -> priority: 1 
+  Thread -> id: 4a8c -> priority: 1 
+  Thread -> id: 12fc -> priority: 1 
+  Thread -> id: 4a80 -> priority: 1 
+  Thread -> id: 19c4 -> priority: 1 
+Message recced
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Code 2 used
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Reached end
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
